@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8d6e46-7cc5-4f5f-8c2c-a272ea2e0313" name="Default Changelist" comment="" />
+    <list default="true" id="bc8d6e46-7cc5-4f5f-8c2c-a272ea2e0313" name="Default Changelist" comment="Link and some exercises">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eqJs_02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/eqJs_02/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eqJs_02/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/eqJs_02/scripts.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,8 +96,17 @@
       <updated>1607870201399</updated>
       <workItem from="1607870202481" duration="342000" />
       <workItem from="1607870554132" duration="4421000" />
-      <workItem from="1608065394149" duration="854000" />
+      <workItem from="1608065394149" duration="1185000" />
+      <workItem from="1608217595971" duration="3516000" />
     </task>
+    <task id="LOCAL-00001" summary="Link and some exercises">
+      <created>1608066540095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608066540095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +122,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Link and some exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Link and some exercises" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="183" width="1092" height="810" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607877031426">
@@ -171,5 +189,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="39" y="173" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607876008244" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608066564745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608066564745" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608066512893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608066512893" />
   </component>
 </project>
